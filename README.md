@@ -1,8 +1,16 @@
 # Vrinda Store Data Analysis and Dashboarding
+## Contents
+- [Project Overview](#project-overview)
+- [Objectives](#objectives)
+- [Execution Summary](#execution-summary)
+- [Insights & Recommendations](#insights-&-recommendations)
 
 ## Project Overview
 
 This project focuses on cleaning, analyzing, and visualizing data from Vrinda Store to provide actionable insights. The raw data file, *Vrinda_store_aw_data*, contained unstructured and inconsistent information. Through extensive data cleaning and analysis, the transformed dataset in *Vrinda Store Data Cleaned and Analyzed* serves as the foundation for creating meaningful dashboards and reports.
+
+![Vrinda store dahsoboard](https://github.com/user-attachments/assets/1d374f19-870b-4966-bfe5-2b9e90db5f06)
+
 
 ## Objectives
 
@@ -11,7 +19,7 @@ This project focuses on cleaning, analyzing, and visualizing data from Vrinda St
 - **Dashboard Creation**: Develop interactive Excel dashboards for visualizing insights.
 
 
-## Work Done
+## Execution Summary
 
 ### **Data Cleaning**
 
@@ -70,7 +78,7 @@ The sales data highlights strong performance among specific customer segments an
 
 Additionally, the dominance of sales from *Maharashtra*, *Karnataka*, and *Uttar Pradesh* (70% combined) suggests that these regions should remain a focal point for targeted promotions, localized advertising, and logistical optimization.
 
-The *Set* category is the dominant category for products sold in the store. This shows a high interest from customers in Set products, which indicates a clear opportunity for optimizing marketing campaigns, narrowing down customer preferences and explore more product offerings in this categories.  
+The *Set* category is the dominant category for products sold in the store. This shows a high interest from customers in Set products, which indicates a clear opportunity for optimizing marketing campaigns, narrowing down customer preferences and exploring more product offerings in this categories.  
 
 The *Adult* and *Young Adult* groups are the main contributors to both Women’s and Men’s categories, representing over 75% of sales. This demographic alignment should guide product design, seasonal collections, and influencer partnerships to better resonate with their preferences and lifestyle.
 
