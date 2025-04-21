@@ -3,7 +3,7 @@
 - [Project Overview](#project-overview)
 - [Objectives](#objectives)
 - [Execution Summary](#execution-summary)
-- [Insights & Recommendations](#insights-&-recommendations)
+- [Insights and Recommendations](#insights-and-recommendations)
 
 ## Project Overview
 
@@ -73,7 +73,7 @@ Interactive dashboards were designed to present insights visually. Features of t
     - Ensured dashboards were user-friendly with intuitive navigation.
 
 
-## Insights & Recommendations
+## Insights and Recommendations
 The sales data highlights strong performance among specific customer segments and regions, offering valuable direction for strategic growth. *Women* are the primary buyers, accounting for 64% of total sales, indicating a clear opportunity to further tailor product offerings, marketing campaigns, and user experiences toward this demographic.
 
 Additionally, the dominance of sales from *Maharashtra*, *Karnataka*, and *Uttar Pradesh* (70% combined) suggests that these regions should remain a focal point for targeted promotions, localized advertising, and logistical optimization.
